@@ -1,1 +1,2 @@
 # deep-learning-final-project
+The deep_learning_final_proj3 (4).ipynb file contains the conversion of .png images to tensors for the model to be able to use as well as the baseline model. The robustness_check (3).ipynb file contains the adversarial robustness check for this baseline model. The experimental_models.ipynb file contains the results for the best model (final model architecture). The experimental_robustness_check.ipynb file contains the adversarial robustness check for the experimental model. 
